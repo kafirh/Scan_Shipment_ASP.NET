@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "G:\\ShipmentScan\\ShipmentScan\\ShipmentScan.csproj": {}
+    "D:\\panasonic\\ShipmentScan\\ShipmentScan\\ShipmentScan.csproj": {}
   },
   "projects": {
-    "G:\\ShipmentScan\\ShipmentScan\\ShipmentScan.csproj": {
+    "D:\\panasonic\\ShipmentScan\\ShipmentScan\\ShipmentScan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\ShipmentScan\\ShipmentScan\\ShipmentScan.csproj",
+        "projectUniqueName": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\ShipmentScan.csproj",
         "projectName": "ShipmentScan",
-        "projectPath": "G:\\ShipmentScan\\ShipmentScan\\ShipmentScan.csproj",
-        "packagesPath": "C:\\Users\\LS\\.nuget\\packages\\",
-        "outputPath": "G:\\ShipmentScan\\ShipmentScan\\obj\\",
+        "projectPath": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\ShipmentScan.csproj",
+        "packagesPath": "C:\\Users\\irham\\.nuget\\packages\\",
+        "outputPath": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\LS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\irham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -85,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

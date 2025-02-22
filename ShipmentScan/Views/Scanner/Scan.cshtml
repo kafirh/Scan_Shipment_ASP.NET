@@ -69,7 +69,7 @@
 
                             <label class="form-label">Serial Number</label>
                             <div class="d-flex align-items-center">
-                                <input type="text" class="form-control me-2" id="SerialNumber" name="serialNum" required>
+                                <input type="text" class="form-control me-2" id="SerialNumber" name="serialNum" required @(actualQty >= planQty ? "readonly" : "")>
                                 <button type="submit" class="btn btn-primary">Submit</button>
                             </div>
                             <span id="errorMessage" class="text-danger">@TempData["ErrorMessage"]</span>
@@ -133,7 +133,7 @@
                                             </td>
                                             <td>@(serial?.Date != null ? serial.Date.ToString("dd-MMM-yy HH:mm:ss", new System.Globalization.CultureInfo("id-ID")).Replace(".", ":") : "N/A")</td>
 
-                                            <form method="post" asp-action="UpdateSerialNumber" asp-controller="Scan">
+                                            <form method="post" asp-action="UpdateSerialNumber" asp-controller="Scan" id="updatedForm">
                                                 <input type="hidden" name="id" value="@serial?.Id" />
                                             <td><input type="checkbox" name="ItemCheck_1" value="true" @(serial?.ItemCheck_1 == true ? "checked" : "")></td>
                                             <td><input type="checkbox" name="ItemCheck_2" value="true" @(serial?.ItemCheck_2 == true ? "checked" : "")></td>
@@ -168,6 +168,28 @@
 <script src="~/js/signalr/dist/browser/signalr.js"></script>
 <script src="~/lib/jquery/dist/jquery.min.js"></script>
 <script>
+        function toggleSerialInput(planQty, actualQty) {
+        let serialInput = $("#SerialNumber");
+        let submitButton = $("#submitSerial");
+
+        if (actualQty >= planQty) {
+            serialInput.prop("readonly", true);
+            submitButton.prop("disabled", true);
+             $("#errorMessage").text("Error: The planned quantity has been reached.").css("color", "red");
+        } else {
+            serialInput.prop("readonly", false);
+            submitButton.prop("disabled", false);
+        }
+    }
+
+    // Panggil fungsi saat pertama kali halaman dimuat
+    $(document).ready(function () {
+        let planQty = parseInt($("#planCount").text()) || 0;
+        console.log(planQty);
+        let actualQty = parseInt($("#actualCount").text()) || 0;
+        console.log(actualQty);
+        toggleSerialInput(planQty, actualQty);
+    });
     $(document).ready(function () {
         var modelNumbers = @Html.Raw(Json.Serialize(Model.ModelNumbers));
         console.log(modelNumbers);
@@ -181,7 +203,7 @@
                 event.preventDefault(); // Prevent form submission
                 $("#SerialNumber").val(""); // Clear the input field
                 // Display error message
-                $("#errorMessage").text("Error: Serial number must be at least 10 characters long").css("color", "red");
+                $("#errorMessage").text("Error: Serial number must be at least 10-15 characters long").css("color", "red");
                 return false; // Don't submit the form
             }
 
@@ -190,6 +212,14 @@
                 $("#SerialNumber").val(""); // Clear the input field
                 // Display error message
                 $("#errorMessage").text("Error: Inputkan Serial Number, Bukan Model Number").css("color", "red");
+                return false; // Don't submit the form
+            }
+
+            if (serialNumber.length > 15) {
+                event.preventDefault(); // Prevent form submission
+                $("#SerialNumber").val(""); // Clear the input field
+                // Display error message
+                $("#errorMessage").text("Error: Serial number must be at least 10-15 characters long").css("color", "red");
                 return false; // Don't submit the form
             }
 
@@ -277,6 +307,9 @@
                 $('#planCount').text(planQty);
                 $('#actualCount').text(actualQty);
                 $('#remainsCount').text(remains).css('color', remainsColor);
+
+                toggleSerialInput(planQty, actualQty);
+
             },
             error: function (xhr, status, error) {
                 console.error("Gagal memperbarui shipment data:", error);

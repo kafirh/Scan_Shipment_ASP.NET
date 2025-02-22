@@ -1,332 +1,336 @@
 {
   "Files": [
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\ShipmentScan.bundle.scp.css",
-      "PackagePath": "staticwebassets\\ShipmentScan.bundle.scp.css"
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\ShipmentScan.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ShipmentScan.s75oscuq74.bundle.scp.css"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\Rotativa\\wkhtmltoimage.exe",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\Rotativa\\wkhtmltoimage.exe",
       "PackagePath": "staticwebassets\\Rotativa\\wkhtmltoimage.exe"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
       "PackagePath": "staticwebassets\\Rotativa\\wkhtmltopdf.exe"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\Source\\back-removebg-preview.png",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\Source\\back-removebg-preview.png",
       "PackagePath": "staticwebassets\\Source\\back-removebg-preview.png"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\Source\\delete-removebg-preview.png",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\Source\\delete-removebg-preview.png",
       "PackagePath": "staticwebassets\\Source\\delete-removebg-preview.png"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\Source\\details-removebg-preview.png",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\Source\\details-removebg-preview.png",
       "PackagePath": "staticwebassets\\Source\\details-removebg-preview.png"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\Source\\hide.png",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\Source\\hide.png",
       "PackagePath": "staticwebassets\\Source\\hide.png"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\Source\\padlock.png",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\Source\\padlock.png",
       "PackagePath": "staticwebassets\\Source\\padlock.png"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\Source\\pdfdownload-removebg-preview.png",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\Source\\pdfdownload-removebg-preview.png",
       "PackagePath": "staticwebassets\\Source\\pdfdownload-removebg-preview.png"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\Source\\show.png",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\Source\\show.png",
       "PackagePath": "staticwebassets\\Source\\show.png"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\Source\\worker.png",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\Source\\worker.png",
       "PackagePath": "staticwebassets\\Source\\worker.png"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\css\\site.css",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\favicon.ico",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
       "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.js"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
       "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.min.js"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\js\\site.js",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\wkhtmltopdf\\bin\\wkhtmltoimage.exe",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\wkhtmltopdf\\bin\\wkhtmltoimage.exe",
       "PackagePath": "staticwebassets\\wkhtmltopdf\\bin\\wkhtmltoimage.exe"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\wkhtmltopdf\\bin\\wkhtmltopdf.exe",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\wkhtmltopdf\\bin\\wkhtmltopdf.exe",
       "PackagePath": "staticwebassets\\wkhtmltopdf\\bin\\wkhtmltopdf.exe"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\wkhtmltopdf\\bin\\wkhtmltox.dll",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\wkhtmltopdf\\bin\\wkhtmltox.dll",
       "PackagePath": "staticwebassets\\wkhtmltopdf\\bin\\wkhtmltox.dll"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\wkhtmltopdf\\include\\wkhtmltox\\dllbegin.inc",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\wkhtmltopdf\\include\\wkhtmltox\\dllbegin.inc",
       "PackagePath": "staticwebassets\\wkhtmltopdf\\include\\wkhtmltox\\dllbegin.inc"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\wkhtmltopdf\\include\\wkhtmltox\\dllend.inc",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\wkhtmltopdf\\include\\wkhtmltox\\dllend.inc",
       "PackagePath": "staticwebassets\\wkhtmltopdf\\include\\wkhtmltox\\dllend.inc"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\wkhtmltopdf\\include\\wkhtmltox\\image.h",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\wkhtmltopdf\\include\\wkhtmltox\\image.h",
       "PackagePath": "staticwebassets\\wkhtmltopdf\\include\\wkhtmltox\\image.h"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\wkhtmltopdf\\include\\wkhtmltox\\pdf.h",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\wkhtmltopdf\\include\\wkhtmltox\\pdf.h",
       "PackagePath": "staticwebassets\\wkhtmltopdf\\include\\wkhtmltox\\pdf.h"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\wkhtmltopdf\\lib\\wkhtmltox.lib",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\wkhtmltopdf\\lib\\wkhtmltox.lib",
       "PackagePath": "staticwebassets\\wkhtmltopdf\\lib\\wkhtmltox.lib"
     },
     {
-      "Id": "G:\\ShipmentScan\\ShipmentScan\\wwwroot\\wkhtmltopdf\\uninstall.exe",
+      "Id": "D:\\panasonic\\ShipmentScan\\ShipmentScan\\wwwroot\\wkhtmltopdf\\uninstall.exe",
       "PackagePath": "staticwebassets\\wkhtmltopdf\\uninstall.exe"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.ShipmentScan.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.ShipmentScan.Microsoft.AspNetCore.StaticWebAssets.props",
