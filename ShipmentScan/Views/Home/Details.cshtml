@@ -1,0 +1,280 @@
+﻿@{
+    ViewData["Title"] = "Details Page";
+    string userRole = Context.Session.GetString("UserRole");  // Mendapatkan userRole dari session
+}
+@model DetailsViewModel
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+
+        .header-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        border-bottom: 3px solid black;
+        padding-bottom: 10px;
+        margin-bottom: 20px;
+        }
+
+        .header {
+        text-align: center;
+        font-weight: bold;
+        font-size: 20px;
+        padding: 10px 0;
+        }
+
+        .sub-header {
+        text-align: left;
+        font-weight: bold;
+        font-size: 16px;
+        }
+
+        .details-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+        font-size: 14px;
+        }
+
+        .details-table th,
+        .details-table td {
+        border: 1px solid black;
+        text-align: left;
+        padding: 8px;
+        }
+
+        .serial-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+        font-size: 14px;
+        }
+
+        .serial-table th,
+        .serial-table td {
+        border: 1px solid black;
+        padding: 8px;
+        text-align: center;
+        }
+
+        .serial-table th {
+        background-color: #f2f2f2;
+        }
+
+        .approval-container {
+        display: flex;
+        justify-content: space-between;
+        gap: 5px;
+        }
+
+        .approval-box {
+        width: 120px;
+        min-height: 100px; /* Ubah dari height ke min-height */
+        border: 1px solid black;
+        text-align: center;
+        padding: 5px;
+        box-sizing: border-box;
+        display: inline-block; /* Supaya kotak-kotak approval tetap sejajar */
+        vertical-align: top; /* Menjaga kotak tetap di atas */
+        }
+
+        .approval-top {
+            text-align: center;
+            align-items: center; /* Teks rata tengah secara vertikal */
+            font-weight: bold;
+            font-size: 12px; /* Ukuran font lebih kecil */
+        }
+
+        .approval-check {
+            flex-grow: 1;
+            display: flex;
+            height: 50px;
+            justify-content: center;
+            align-items: center;
+            border-top: 1px solid black; /* Garis atas */
+            border-bottom: 1px solid black; /* Garis bawah */
+        }
+
+        .approval-bottom {
+            font-size: 12px; /* Ukuran font lebih kecil */
+            text-align: center;
+            align-items: center; /* Teks rata tengah secara vertikal */
+            word-wrap: break-word; /* Pastikan teks panjang tetap di dalam kotak */
+            margin: 0; /* Hilangkan margin tambahan */
+        }
+
+    </style>
+</head>
+<body>
+    <div style="position: absolute; top: 70px; left: 20px;">
+        <img src="~/Source/back-removebg-preview.png"
+             alt="Back"
+             onclick="history.back()"
+             style="width: 40px; height: 40px; cursor: pointer;" />
+    </div>
+    <div class="header">
+        Stuffing Washing Machine @DateTime.Now.ToString("yyyy")
+    </div>
+    <div class="header-container">
+        <div class="sub-header">
+            PT Panasonic Manufacturing Indonesia<br />
+            Laundry Systems Business Unit<br />
+            <br />
+            Date of shipment: @Model.Shipmentmodel.PlanDate.ToString("dd MMM yyyy", new System.Globalization.CultureInfo("id-ID"))<br />
+            No Shipment     : @Model.No
+        </div>
+        <!-- Approval Boxes -->
+        <div class="approval-container">
+            <div class="approval-box">
+                <div class="approval-top">Approved</div>
+                <div class="approval-check"></div>
+                <div class="approval-bottom">Warehouse</div>
+            </div>
+            <div class="approval-box">
+                <div class="approval-top">Checked</div>
+                <div class="approval-check"></div>
+                <div class="approval-bottom">QC</div>
+            </div>
+            <div class="approval-box">
+                <div class="approval-top">Prepared</div>
+                <div class="approval-check"></div>
+                <div class="approval-bottom">Inspector</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Details Table -->
+    <table class="details-table">
+        <tr>
+            <td colspan="3">Shipment Type</td>
+            <td colspan="3">@(Model.Shipmentmodel.IsExport ? "Ekspor" : "Domestik")</td>
+            <td colspan="3">Container Number</td>
+            <td colspan="3">@Model.Shipmentmodel.ContainerNo</td>
+        </tr>
+        <tr>
+            <td colspan="3">Destination</td>
+            <td colspan="3">@Model.Shipmentmodel.Destination.Name</td>
+            <td colspan="3">Seal Number</td>
+            <td colspan="3">@Model.Shipmentmodel.SealNo</td>
+        </tr>
+        <tr>
+            <td colspan="3">Model</td>
+            <td colspan="3">@Model.Shipmentmodel.Model.ModelNumber</td>
+            <td colspan="3">Qty</td>
+            <td colspan="3">@Model.Shipmentmodel.Qty</td>
+        </tr>
+        <tr>
+            <td colspan="3">Inspector</td>
+            <td colspan="3">
+                @string.Join(", ", Model.Users.Select(user => user.Name))
+            </td>
+            <td colspan="3">Aktual</td>
+            <td colspan="3">@Model.Shipmentmodel.TotalSerialNumber</td>
+        </tr>
+        <tr>
+            <td colspan="3">Truck Police Number</td>
+            <td colspan="3">@Model.Shipmentmodel.TruckPoliceNo</td>
+            <td colspan="3">Remain</td>
+            <td colspan="3" style="color:@((Model.Shipmentmodel.TotalSerialNumber - Model.Shipmentmodel.Qty) == 0 ? "black" : "red")">
+                @(Model.Shipmentmodel.TotalSerialNumber - Model.Shipmentmodel.Qty)
+            </td>
+        </tr>
+    </table>
+
+    <!-- Serial Table -->
+    <table class="serial-table">
+        <thead>
+            <tr>
+                <th rowspan="2" style="width: 5%;">No.</th>
+                <th rowspan="2" style="width: 12%;">Serial Number</th>
+                <th rowspan="2" style="width: 10%;">Date Time</th>
+                <th colspan="4" class="item-header" style="width: 46%;">Item Check</th>
+                <th rowspan="2" style="width: 17%;">Comment</th>
+                <th rowspan="2" style="width: 5%;">Delete</th>
+            </tr>
+            <tr>
+                <th style="width: 11.5%;">Warranty card no foiled/broken</th>
+                <th style="width: 11.5%;">Cave A no dent, no broken, no dirty</th>
+                <th style="width: 11.5%;">PG2 Label available, no broken, not move out</th>
+                <th style="width: 11.5%;">Strapping band not loosen</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.Serialnummodel.Count; i++)
+            {
+                <tr>
+                    <td>@(i + 1)</td>
+                    <td>@Model.Serialnummodel[i].SerialNumber</td>
+                    <td>@Model.Serialnummodel[i].Date.ToString("dd-MMM-yy HH:mm:ss", new System.Globalization.CultureInfo("id-ID")).Replace(".", ":")</td>
+                    <td>
+                        @if (Model.Serialnummodel[i].ItemCheck_1)
+                        {
+                            @:✓
+                        }
+                        else
+                        {
+                            @:✘
+                        }
+                    </td>
+                    <td>
+                        @if (Model.Serialnummodel[i].ItemCheck_2)
+                        {
+                            @:✓
+                        }
+                        else
+                        {
+                            @:✘
+                        }
+                    </td>
+                    <td>
+                        @if (Model.Serialnummodel[i].ItemCheck_3)
+                        {
+                            @:✓
+                        }
+                        else
+                        {
+                            @:✘
+                        }
+                    </td>
+                    <td>
+                        @if (Model.Serialnummodel[i].ItemCheck_4)
+                        {
+                            @:✓
+                        }
+                        else
+                        {
+                            @:✘
+                        }
+                    </td>
+                    <td>@Model.Serialnummodel[i].Comment</td>
+                    <td style="align-items: center;">
+                        @if (userRole == "Admin")
+                        {
+                            <!-- Tombol Delete -->
+                            <form asp-action="DeleteSerial" asp-controller="Details" method="post" onsubmit="return confirmDeleteSerial('@Model.Serialnummodel[i].Id');" style="display: flex; align-items: center; margin: 0;">
+                                <input type="hidden" name="Id" value="@Model.Serialnummodel[i].Id" />
+                                <input type="hidden" name="code" value="@Model.Shipmentmodel.Code" />
+                                <input type="hidden" name="no" value="@Model.No" />
+                                <button type="submit" class="btn btn-sm btn-danger d-flex align-items-center">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-trash" viewBox="0 0 16 16">
+                                        <path d="M5.5 5.5A.5.5 0 0 1 6 6v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5m2.5 0a.5.5 0 0 1 .5.5v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5m3 .5a.5.5 0 0 0-1 0v6a.5.5 0 0 0 1 0z" />
+                                        <path d="M14.5 3a1 1 0 0 1-1 1H13v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V4h-.5a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1H6a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1h3.5a1 1 0 0 1 1 1zM4.118 4 4 4.059V13a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V4.059L11.882 4zM2.5 3h11V2h-11z" />
+                                    </svg>
+                                    @* <span class="ms-2">Delete</span> *@
+                                </button>
+                            </form>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>
+ <script>
+    function confirmDeleteSerial(Id) {
+        return confirm(`Are you sure you want to delete shipment with Id ${Id}?`);
+    }
+ </script>

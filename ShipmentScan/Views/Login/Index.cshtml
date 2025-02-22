@@ -1,0 +1,155 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Login</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #e3f2fd;
+        }
+
+        .center {
+            display: flex;
+            justify-content: center;
+            padding-top: 150px;
+        }
+
+        .form-container {
+            width: 100%;
+            max-width: 800px;
+            padding: 20px;
+            border-radius: 10px;
+            background-color: #ffffff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            margin-bottom: 10px;
+            font-weight: bold;
+            color: #1565c0;
+        }
+
+        h3 {
+            margin-bottom: 40px;
+            color: #1565c0;
+        }
+
+        .form-field {
+            position: relative;
+            margin: 8px 0;
+            display: flex;
+            align-items: center;
+        }
+
+        input[type="text"], input[type="password"] {
+            flex-grow: 1;
+            padding: 12px 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+
+        .input-icon {
+            margin-right: 10px;
+            display: inline-block;
+        }
+
+            .input-icon img {
+                width: 24px;
+                height: 24px;
+            }
+
+        .toggle-password {
+            position: absolute;
+            right: 10px;
+            top: 50%;
+            transform: translateY(-50%);
+            background: none;
+            border: none;
+            cursor: pointer;
+            padding: 0;
+        }
+
+            .toggle-password img {
+                width: 24px;
+                height: 24px;
+            }
+
+        .btn {
+            width: 100%;
+            padding: 12px;
+            margin: 24px 0px 20px 0px;
+            border: none;
+            border-radius: 5px;
+            background-color: #1976d2;
+            color: white;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+            .btn:hover {
+                background-color: #0d47a1;
+            }
+
+        .error-message {
+            color: red;
+            font-size: 14px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="center">
+        <div class="form-container">
+            <h2 class="text-center">Login</h2>
+            <h3 class="text-center">Laundry System Business Unit</h3>
+            <form asp-controller="Login" asp-action="Login" method="post">
+                <div class="form-field">
+                    <span class="input-icon">
+                        <img src="~/Source/worker.png" alt="Username Icon" />
+                    </span>
+                    <input type="text" id="nik" name="nik" placeholder="Masukan Username atau NIK" required />
+                </div>
+                <div class="form-field">
+                    <span class="input-icon">
+                        <img src="~/source/padlock.png" alt="Password Icon" />
+                    </span>
+                    <input type="password" id="password" name="password" placeholder="Masukan Password" required />
+                    <button type="button" class="toggle-password" @* onclick="togglePasswordVisibility()" *@ id="toggle-password-btn">
+                       @*  <img src="~/source/show.png" alt="Show Password" id="toggle-password-icon" /> *@
+                    </button>
+                </div>
+                <button type="submit" class="btn">Login</button>
+                @if (!string.IsNullOrEmpty(ViewData["ErrorMessage"]?.ToString()))
+                {
+                    <div class="error-message">
+                        @ViewData["ErrorMessage"]
+                    </div>
+                }
+            </form>
+        </div>
+    </div>
+
+    <script>
+        function togglePasswordVisibility() {
+            const passwordField = document.getElementById("password");
+            const toggleIcon = document.getElementById("toggle-password-icon");
+
+            if (passwordField.type === "password") {
+                passwordField.type = "text";
+                toggleIcon.src = "~/Source/hide.png"; // Perbaiki path gambar
+            } else {
+                passwordField.type = "password";
+                toggleIcon.src = "~/Source/show.png"; // Perbaiki path gambar
+            }
+        }
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Access Denied";
+    string userRole = Context.Session.GetString("UserRole");  // Mendapatkan userRole dari session
+}
+
+<div class="container-fluid d-flex justify-content-center align-items-center" style="height: 100vh;">
+    <div class="text-center">
+        <h1>Access Denied</h1>
+        <p>Anda tidak memiliki izin untuk mengakses halaman ini. Silahkan hubungi Administrator PE-LSBU</p>
+
+        @if (userRole == "InspectorShipmentFG")
+        {
+            <a href="@Url.Action("Index", "Scan")" class="btn btn-primary">Kembali ke Halaman Scan</a>
+        }
+        else if (userRole == "Admin" || userRole == "PPC" || userRole == "User")
+        {
+        <a href="@Url.Action("Index", "Home")" class="btn btn-primary">Kembali ke Halaman Home</a>
+        }
+        else
+        {
+        <a href="@Url.Action("Index", "Login")" class="btn btn-primary">Kembali ke Halaman Login</a>
+        }
+    </div>
+</div>

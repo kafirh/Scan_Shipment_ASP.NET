@@ -1,0 +1,209 @@
+﻿@model ShipmentScan.Models.ShipmentModel
+
+<div class="container">
+    <div class="justify-content-between"></div>
+    <h1 class="text-center mb-4" style="color: #0056b3; font-weight: bold;">
+        @(Model != null && !string.IsNullOrEmpty(Model.Code) ? "Edit Shipment" : "Add New Shipment")
+    </h1>
+    <div class="d-flex justify-content-center">
+        <form asp-action="Save" asp-controller="Form"
+              method="post"
+              class="p-4 rounded shadow-sm"
+              style="background-color: #f8f9fa; border: 2px solid #0056b3; width: 100%;">
+
+            <!-- Hidden Input for Code -->
+            <input type="hidden" asp-for="Code" value="@(Model.Code ?? "0")" />
+            <!-- Hidden Input for Code -->
+            <input type="hidden" asp-for="IsView" value="@(Model.IsView = true)" />
+            <input type="hidden" asp-for="CreatedDate" value="@DateTime.Now.ToString("yyyy-MM-ddTHH:mm")" />
+
+            <div class="row mb-3">
+                <!-- BookingConfirmation No Field -->
+                <div class="col-md-6">
+                    <label for="BookingConfirmation" style="font-weight: bold;">Booking Confirmation</label>
+                    @if (Model != null && !string.IsNullOrEmpty(Model.Code))
+                    {
+                        <input type="text" asp-for="BookingConfirmation"
+                               class="form-control"
+                               id="BookingConfirmationInput"
+                               placeholder="input Booking Confirmation or -"
+                        style="font-size: 1rem; border: 1px solid #0056b3;" 
+                        readonly/>
+                    }
+                    else
+                    {
+                        <input type="text" asp-for="BookingConfirmation"
+                               class="form-control"
+                               id="BookingConfirmationInput"
+                               placeholder="input Booking Confirmation or -"
+                               style="font-size: 1rem; border: 1px solid #0056b3;" />
+                    }
+                    <span asp-validation-for="BookingConfirmation" class="text-danger"></span>
+                </div>
+                <!-- Container No Field -->
+                <div class="col-md-6">
+                    <label for="ContainerNo" style="font-weight: bold;">Container No</label>
+                    <input type="text" asp-for="ContainerNo"
+                           class="form-control"
+                           placeholder="Enter Container No"
+                           style="font-size: 1rem; border: 1px solid #0056b3;" />
+                    <span asp-validation-for="ContainerNo" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <!-- Date Field -->
+                <div class="col-md-6">
+                    <label for="PlanDate" style="font-weight: bold;">PlanDate</label>
+                    <input type="date"
+                           asp-for="PlanDate"
+                           id="PlanDate"
+                           name="PlanDate"
+                           class="form-control"
+                           value="@DateTime.Now.ToString("yyyy-MM-dd")"
+                           style="font-size: 1rem; border: 1px solid #0056b3; background-color: #f8f9fa;" />
+                </div>
+                <!-- Container Size Field -->
+                <div class="col-md-6">
+                    <label for="ContainerSizeId" style="font-weight: bold;">Container Size</label>
+                    <select asp-for="ContainerSizeId"
+                            class="form-select"
+                            asp-items="ViewBag.ContainerSizes"
+                            style="font-size: 1rem; border: 1px solid #0056b3;">
+                        <option value="" disabled>-- Select Container --</option>
+                    </select>
+                </div>
+
+            </div>
+            <div class="row mb-3">
+                <!-- Destination and Shipment Type in One Row with 3:1 Ratio -->
+                <div class="col-md-6">
+                    <label for="DestinationId" style="font-weight: bold;">Destination</label>
+                    <div class="row">
+                        <!-- Destination Dropdown (3/4 width) -->
+                        <div class="col-9">
+                            <select asp-for="DestinationId"
+                                    class="form-select"
+                                    asp-items="ViewBag.Destinations"
+                                    style="font-size: 1rem; border: 1px solid #0056b3;">
+                                <option value="" disabled>-- Select Destination --</option>
+                            </select>
+                        </div>
+
+                        <!-- Shipment Type Dropdown (1/4 width) -->
+                        <div class="col-3">
+                            <select asp-for="IsExport"
+                                    class="form-select"
+                                    style="font-size: 1rem; border: 1px solid #0056b3;">
+                                <option value="" disabled selected>-- Type --</option>
+                                <option value=false>Domestic</option>
+                                <option value=true>Export</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <!-- Container Q Field -->
+                <div class="col-md-6">
+                    <label for="ContainerQ" style="font-weight: bold;">Container Q</label>
+                    <input type="text" asp-for="ContainerQ"
+                           class="form-control"
+                           placeholder="Enter Container Q"
+                           style="font-size: 1rem; border: 1px solid #0056b3;" />
+                </div>
+            </div>
+            <div class="row mb-3">
+                <!-- Truck Police No Field -->
+                <div class="col-md-6">
+                    <label for="TruckPoliceNo" style="font-weight: bold;">Truck Police No</label>
+                    <input type="text" asp-for="TruckPoliceNo"
+                           class="form-control"
+                           placeholder="Enter Truck Police No"
+                           style="font-size: 1rem; border: 1px solid #0056b3;" />
+                    <span asp-validation-for="TruckPoliceNo" class="text-danger"></span>
+                </div>
+                <!-- Seal No Field -->
+                <div class="col-md-6">
+                    <label for="SealNo" style="font-weight: bold;">Seal No</label>
+                    <input type="text" asp-for="SealNo"
+                           class="form-control"
+                           placeholder="Enter Seal No"
+                           style="font-size: 1rem; border: 1px solid #0056b3;" />
+                    <span asp-validation-for="SealNo" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="mb-3">
+                <label for="AWB" class="form-label">Sales Document(AWB) <small class="text-muted">*if more than one item, please separate with comma</small></label>
+                <input type="text" asp-for="AWB" class="form-control" placeholder="Enter Sales Document" />
+            </div>
+            <div class="mb-4">
+                <h5 class="mb-3">Invoices</h5>
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>So Num</th>
+                            <th>No. Invoice</th>
+                            <th>Model</th>
+                            <th>Qty</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>
+                                <input type="text" asp-for="SoNum"
+                                       class="form-control"
+                                       placeholder="Enter So Number"
+                                       style="font-size: 1rem; border: 1px solid #0056b3;" />
+                                <span asp-validation-for="SoNum" class="text-danger"></span>
+                            </td>
+                            <td>
+                                <input type="text" asp-for="NoInvoice"
+                                       class="form-control"
+                                       placeholder="Enter No.Invoice"
+                                       style="font-size: 1rem; border: 1px solid #0056b3;" />
+                                <span asp-validation-for="NoInvoice" class="text-danger"></span>
+                            </td>
+                            <td>
+                                    <select asp-for="ModelCode"
+                                            class="form-select"
+                                            asp-items="ViewBag.Models"
+                                            style="font-size: 1rem; border: 1px solid #0056b3;">
+                                        <option value="" disabled>-- Select Model --</option>
+                                    <span asp-validation-for="ModelCode" class="text-danger"></span>
+                                    </select>
+                            </td>
+                            <td>
+                                <input type="number"
+                                       asp-for="Qty"
+                                       class="form-control"
+                                       min="1"
+                                       style="font-size: 1rem; border: 1px solid #0056b3;" />
+                                <span asp-validation-for="Qty" class="text-danger"></span>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>        
+
+            <!-- Buttons -->
+            <div class="d-flex justify-content-end">
+                <button type="submit"
+                        class="btn btn-success px-4 py-2 me-3"
+                        style="font-size: 1rem; font-weight: bold; background-color: #28a745; border-color: #28a745;">
+                     @(Model != null && !string.IsNullOrEmpty(Model.Code) ? "Update" : "Add") 
+                    @*Add*@
+                </button>
+                <button onclick="history.back()"
+                        class="btn btn-secondary px-4 py-2"
+                        style="font-size: 1rem; font-weight: bold;">
+                    Cancel
+                </button>
+
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

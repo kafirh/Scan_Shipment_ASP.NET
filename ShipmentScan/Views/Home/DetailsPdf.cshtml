@@ -1,0 +1,246 @@
+﻿@{
+    Layout = null;
+}
+@model DetailsViewModel
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        .header {
+            text-align: center;
+            font-weight: bold;
+            font-size: 20px;
+            margin-bottom: 20px;
+        }
+
+        .header-container {
+            margin-bottom: 20px;
+            border-bottom: 3px solid black;
+            padding-bottom: 10px;
+            overflow: hidden; /* Pastikan float bekerja dengan benar */
+        }
+
+        .sub-header {
+            font-weight: bold;
+            font-size: 16px;
+            justify-content:center;
+            text-align: left;
+            float: left; /* Membuat elemen berada di kiri */
+            width: 50%; /* Tentukan lebar untuk elemen kiri */
+        }
+
+        .approval-container {
+            float: right; /* Membuat elemen berada di kanan */
+            width: 42%; /* Tentukan lebar untuk elemen kanan */
+        }
+
+        .approval-box {
+            width: 120px;
+            height: 100px;
+            border: 1px solid black;
+            text-align: center;
+            padding: 5px;
+            box-sizing: border-box;
+            display: inline-block; /* Supaya kotak-kotak approval tetap sejajar */
+            vertical-align: top; /* Menjaga kotak tetap di atas */
+        }
+
+        .approval-top {
+            text-align: center;
+            align-items: center; /* Teks rata tengah secara vertikal */
+            font-weight: bold;
+            font-size: 12px; /* Ukuran font lebih kecil */
+        }
+
+        .approval-check {
+            flex-grow: 1;
+            display: flex;
+            height: 50px;
+            justify-content: center;
+            align-items: center;
+            border-top: 1px solid black; /* Garis atas */
+            border-bottom: 1px solid black; /* Garis bawah */
+        }
+
+        .approval-bottom {
+            font-size: 12px; /* Ukuran font lebih kecil */
+            text-align: center;
+            align-items: center; /* Teks rata tengah secara vertikal */
+            word-wrap: break-word; /* Pastikan teks panjang tetap di dalam kotak */
+            margin: 0; /* Hilangkan margin tambahan */
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px auto;
+            table-layout: fixed;
+        }
+
+        th, td {
+            border: 1px solid black;
+            text-align: center;
+            padding: 5px;
+            word-wrap: break-word;
+        }
+
+        th {
+            background-color: #f2f2f2;
+            font-weight: bold;
+        }
+
+        .details-table th, .details-table td {
+            font-size: 14px;
+        }
+
+        .serial-table th, .serial-table td {
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        Stuffing Washing Machine @DateTime.Now.ToString("yyyy")
+    </div>
+    <div class="header-container">
+        <div class="sub-header">
+            PT Panasonic Manufacturing Indonesia<br />
+            Laundry Systems Business Unit<br />
+            <br />
+            Date of shipment: @Model.Shipmentmodel.PlanDate.ToString("dd MMM yyyy", new System.Globalization.CultureInfo("id-ID"))<br />
+            No Shipment     : @Model.No
+        </div>
+        <div class="approval-container">
+            <div class="approval-box">
+                <div class="approval-top">Approved</div>
+                <div class="approval-check"> </div>
+                <div class="approval-bottom">Warehouse</div>
+             </div>
+            <div class="approval-box">
+                <div class="approval-top">Checked</div>
+                <div class="approval-check"></div>
+                <div class="approval-bottom">QC</div>
+            </div>
+            <div class="approval-box">
+                <div class="approval-top">Prepared</div>
+                <div class="approval-check"></div>
+                <div class="approval-bottom">Inspector</div>
+            </div>
+        </div>
+    </div>
+
+    <table class="details-table">
+        <tr>
+            <td colspan="3" style="text-align: left;">Shipment Type</td>
+            <td colspan="3" style="text-align: left;">@(Model.Shipmentmodel.IsExport ? "Ekspor" : "Domestik")</td>
+            <td colspan="3" style="text-align: left;">Container Number</td>
+            <td colspan="3" style="text-align: left;">@Model.Shipmentmodel.ContainerNo</td>
+        </tr>
+        <tr>
+            <td colspan="3" style="text-align: left;">Destination</td>
+            <td colspan="3" style="text-align: left;">@Model.Shipmentmodel.Destination.Name</td>
+            <td colspan="3" style="text-align: left;">Seal Number</td>
+            <td colspan="3" style="text-align: left;">@Model.Shipmentmodel.SealNo</td>
+        </tr>
+        <tr>
+            <td colspan="3" style="text-align: left;">Model</td>
+            <td colspan="3" style="text-align: left;">@Model.Shipmentmodel.Model.ModelNumber</td>
+            <td colspan="3" style="text-align: left;">Qty</td>
+            <td colspan="3" style="">@Model.Shipmentmodel.Qty</td>
+        </tr>
+        <tr>
+            <td colspan="3" style="text-align: left;">Inspector</td>
+            <td colspan="3" style="text-align: left;"> @string.Join(", ", Model.Users.Select(user => user.Name))</td>
+            <td colspan="3" style="text-align: left;">Aktual</td>
+            <td colspan="3" style=";">@Model.Shipmentmodel.TotalSerialNumber</td>
+        </tr>
+        <tr>
+            <td colspan="3" style="text-align: left;">Truck Police Number</td>
+            <td colspan="3" style="text-align: left;">@Model.Shipmentmodel.TruckPoliceNo</td>
+            <td colspan="3" style="text-align: left;">Remain</td>
+            <td colspan="3" style="color:@((Model.Shipmentmodel.TotalSerialNumber - Model.Shipmentmodel.Qty) == 0 ? "black" : "red")">
+                @(Model.Shipmentmodel.TotalSerialNumber - Model.Shipmentmodel.Qty)
+            </td>
+        </tr>
+    </table>
+
+
+    <table class="serial-table">
+        <thead>
+            <tr>
+                <th rowspan="2" style="width: 5%;">No.</th>
+                <th rowspan="2" style="width: 12%;">Serial Number</th>
+                <th rowspan="2" style="width: 10%;">Date Time</th>
+                <th colspan="4" class="item-header" style="width: 46%;">Item Check</th>
+                <th rowspan="2" style="width: 17%;">Comment</th>
+            </tr>
+            <tr>
+                <th>Warranty card no foiled/broken</th>
+                <th>Cave A no dent, no broken, no dirty</th>
+                <th>PG2 Label available, no broken, not move out</th>
+                <th>Strapping band not loosen</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.Serialnummodel.Count; i++)
+            {
+                <tr>
+                    <td>@(i + 1)</td>
+                    <td>@Model.Serialnummodel[i].SerialNumber</td>
+                    <td>@Model.Serialnummodel[i].Date.ToString("dd-MMM-yy HH:mm:ss", new System.Globalization.CultureInfo("id-ID")).Replace(".", ":")</td>
+                    <td>
+                        @if (Model.Serialnummodel[i].ItemCheck_1)
+                        {
+                            @:✓
+                        }
+                        else
+                        {
+                            @:✘
+                        }
+                    </td>
+                    <td>
+                        @if (Model.Serialnummodel[i].ItemCheck_2)
+                        {
+                            @:✓
+                        }
+                        else
+                        {
+                            @:✘
+                        }
+                    </td>
+                    <td>
+                        @if (Model.Serialnummodel[i].ItemCheck_3)
+                        {
+                            @:✓
+                        }
+                        else
+                        {
+                            @:✘
+                        }
+                    </td>
+                    <td>
+                        @if (Model.Serialnummodel[i].ItemCheck_4)
+                        {
+                            @:✓
+                        }
+                        else
+                        {
+                            @:✘
+                        }
+                    </td>
+
+
+                    <td>@Model.Serialnummodel[i].Comment</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>

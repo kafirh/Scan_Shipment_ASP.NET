@@ -1,0 +1,568 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\ShipmentScan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|g:\\shipmentscan\\shipmentscan\\shipmentscan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|solutionrelative:shipmentscan\\shipmentscan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|g:\\shipmentscan\\shipmentscan\\views\\scanner\\scan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|solutionrelative:shipmentscan\\views\\scanner\\scan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|g:\\shipmentscan\\shipmentscan\\controllers\\scancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|solutionrelative:shipmentscan\\controllers\\scancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|g:\\shipmentscan\\shipmentscan\\controllers\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|solutionrelative:shipmentscan\\controllers\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|g:\\shipmentscan\\shipmentscan\\models\\detailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|solutionrelative:shipmentscan\\models\\detailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|g:\\shipmentscan\\shipmentscan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|solutionrelative:shipmentscan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|g:\\shipmentscan\\shipmentscan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|solutionrelative:shipmentscan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|g:\\shipmentscan\\shipmentscan\\views\\display\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|solutionrelative:shipmentscan\\views\\display\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|g:\\shipmentscan\\shipmentscan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|solutionrelative:shipmentscan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|g:\\shipmentscan\\shipmentscan\\views\\home\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|solutionrelative:shipmentscan\\views\\home\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|g:\\shipmentscan\\shipmentscan\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|solutionrelative:shipmentscan\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|g:\\shipmentscan\\shipmentscan\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|solutionrelative:shipmentscan\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|g:\\shipmentscan\\shipmentscan\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|solutionrelative:shipmentscan\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|g:\\shipmentscan\\shipmentscan\\hubs\\shipmenthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|solutionrelative:shipmentscan\\hubs\\shipmenthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|g:\\shipmentscan\\shipmentscan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|solutionrelative:shipmentscan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|g:\\shipmentscan\\shipmentscan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|solutionrelative:shipmentscan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|g:\\shipmentscan\\shipmentscan\\controllers\\detailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|solutionrelative:shipmentscan\\controllers\\detailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|g:\\shipmentscan\\shipmentscan\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|solutionrelative:shipmentscan\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|g:\\shipmentscan\\shipmentscan\\controllers\\displaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|solutionrelative:shipmentscan\\controllers\\displaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|g:\\shipmentscan\\shipmentscan\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|solutionrelative:shipmentscan\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|g:\\shipmentscan\\shipmentscan\\views\\home\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|solutionrelative:shipmentscan\\views\\home\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|g:\\shipmentscan\\shipmentscan\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|solutionrelative:shipmentscan\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|g:\\shipmentscan\\shipmentscan\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|solutionrelative:shipmentscan\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|g:\\shipmentscan\\shipmentscan\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|solutionrelative:shipmentscan\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|g:\\shipmentscan\\shipmentscan\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|solutionrelative:shipmentscan\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|g:\\shipmentscan\\shipmentscan\\views\\home\\detailspdf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|solutionrelative:shipmentscan\\views\\home\\detailspdf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|g:\\shipmentscan\\shipmentscan\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|solutionrelative:shipmentscan\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|g:\\shipmentscan\\shipmentscan\\models\\rolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|solutionrelative:shipmentscan\\models\\rolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|g:\\shipmentscan\\shipmentscan\\models\\userrolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|solutionrelative:shipmentscan\\models\\userrolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|g:\\shipmentscan\\shipmentscan\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|solutionrelative:shipmentscan\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|g:\\shipmentscan\\shipmentscan\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|solutionrelative:shipmentscan\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|g:\\shipmentscan\\shipmentscan\\models\\shipmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD40872-3C0C-4BD5-922C-51D6BE7D46A6}|ShipmentScan\\ShipmentScan.csproj|solutionrelative:shipmentscan\\models\\shipmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetailsViewModel.cs",
+              "DocumentMoniker": "G:\\ShipmentScan\\ShipmentScan\\Models\\DetailsViewModel.cs",
+              "RelativeDocumentMoniker": "ShipmentScan\\Models\\DetailsViewModel.cs",
+              "ToolTip": "G:\\ShipmentScan\\ShipmentScan\\Models\\DetailsViewModel.cs",
+              "RelativeToolTip": "ShipmentScan\\Models\\DetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:31:44.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\ShipmentScan\\ShipmentScan\\appsettings.json",
+              "RelativeDocumentMoniker": "ShipmentScan\\appsettings.json",
+              "ToolTip": "G:\\ShipmentScan\\ShipmentScan\\appsettings.json",
+              "RelativeToolTip": "ShipmentScan\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-05T00:27:43.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\ShipmentScan\\ShipmentScan\\Program.cs",
+              "RelativeDocumentMoniker": "ShipmentScan\\Program.cs",
+              "ToolTip": "G:\\ShipmentScan\\ShipmentScan\\Program.cs",
+              "RelativeToolTip": "ShipmentScan\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAFQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T13:06:47.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShipmentScan.csproj",
+              "DocumentMoniker": "G:\\ShipmentScan\\ShipmentScan\\ShipmentScan.csproj",
+              "RelativeDocumentMoniker": "ShipmentScan\\ShipmentScan.csproj",
+              "ToolTip": "G:\\ShipmentScan\\ShipmentScan\\ShipmentScan.csproj",
+              "RelativeToolTip": "ShipmentScan\\ShipmentScan.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-04T08:45:15.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScanController.cs",
+              "DocumentMoniker": "G:\\ShipmentScan\\ShipmentScan\\Controllers\\ScanController.cs",
+              "RelativeDocumentMoniker": "ShipmentScan\\Controllers\\ScanController.cs",
+              "ToolTip": "G:\\ShipmentScan\\ShipmentScan\\Controllers\\ScanController.cs",
+              "RelativeToolTip": "ShipmentScan\\Controllers\\ScanController.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAIwCEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T14:08:17.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Service.cs",
+              "DocumentMoniker": "G:\\ShipmentScan\\ShipmentScan\\Controllers\\Services\\Service.cs",
+              "RelativeDocumentMoniker": "ShipmentScan\\Controllers\\Services\\Service.cs",
+              "ToolTip": "G:\\ShipmentScan\\ShipmentScan\\Controllers\\Services\\Service.cs",
+              "RelativeToolTip": "ShipmentScan\\Controllers\\Services\\Service.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T12:28:19.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Scan.cshtml",
+              "DocumentMoniker": "G:\\ShipmentScan\\ShipmentScan\\Views\\Scanner\\Scan.cshtml",
+              "RelativeDocumentMoniker": "ShipmentScan\\Views\\Scanner\\Scan.cshtml",
+              "ToolTip": "G:\\ShipmentScan\\ShipmentScan\\Views\\Scanner\\Scan.cshtml",
+              "RelativeToolTip": "ShipmentScan\\Views\\Scanner\\Scan.cshtml",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAowLYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T14:08:06.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\ShipmentScan\\ShipmentScan\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShipmentScan\\Views\\Home\\Index.cshtml",
+              "ToolTip": "G:\\ShipmentScan\\ShipmentScan\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ShipmentScan\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAUwN4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T12:30:45.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\ShipmentScan\\ShipmentScan\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShipmentScan\\Views\\Login\\Index.cshtml",
+              "ToolTip": "G:\\ShipmentScan\\ShipmentScan\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "ShipmentScan\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T13:47:17.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\ShipmentScan\\ShipmentScan\\Views\\Display\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShipmentScan\\Views\\Display\\Index.cshtml",
+              "ToolTip": "G:\\ShipmentScan\\ShipmentScan\\Views\\Display\\Index.cshtml",
+              "RelativeToolTip": "ShipmentScan\\Views\\Display\\Index.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T01:39:44.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "G:\\ShipmentScan\\ShipmentScan\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ShipmentScan\\Controllers\\LoginController.cs",
+              "ToolTip": "G:\\ShipmentScan\\ShipmentScan\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ShipmentScan\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T13:48:33.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form.cshtml",
+              "DocumentMoniker": "G:\\ShipmentScan\\ShipmentScan\\Views\\Home\\Form.cshtml",
+              "RelativeDocumentMoniker": "ShipmentScan\\Views\\Home\\Form.cshtml",
+              "ToolTip": "G:\\ShipmentScan\\ShipmentScan\\Views\\Home\\Form.cshtml",
+              "RelativeToolTip": "ShipmentScan\\Views\\Home\\Form.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T04:39:54.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "G:\\ShipmentScan\\ShipmentScan\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ShipmentScan\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "G:\\ShipmentScan\\ShipmentScan\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ShipmentScan\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T14:06:08.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormController.cs",
+              "DocumentMoniker": "G:\\ShipmentScan\\ShipmentScan\\Controllers\\FormController.cs",
+              "RelativeDocumentMoniker": "ShipmentScan\\Controllers\\FormController.cs",
+              "ToolTip": "G:\\ShipmentScan\\ShipmentScan\\Controllers\\FormController.cs",
+              "RelativeToolTip": "ShipmentScan\\Controllers\\FormController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:10:43.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShipmentHub.cs",
+              "DocumentMoniker": "G:\\ShipmentScan\\ShipmentScan\\Hubs\\ShipmentHub.cs",
+              "RelativeDocumentMoniker": "ShipmentScan\\Hubs\\ShipmentHub.cs",
+              "ToolTip": "G:\\ShipmentScan\\ShipmentScan\\Hubs\\ShipmentHub.cs",
+              "RelativeToolTip": "ShipmentScan\\Hubs\\ShipmentHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T00:48:11.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DetailsController.cs",
+              "DocumentMoniker": "G:\\ShipmentScan\\ShipmentScan\\Controllers\\DetailsController.cs",
+              "RelativeDocumentMoniker": "ShipmentScan\\Controllers\\DetailsController.cs",
+              "ToolTip": "G:\\ShipmentScan\\ShipmentScan\\Controllers\\DetailsController.cs",
+              "RelativeToolTip": "ShipmentScan\\Controllers\\DetailsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T00:52:22.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "G:\\ShipmentScan\\ShipmentScan\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ShipmentScan\\Controllers\\HomeController.cs",
+              "ToolTip": "G:\\ShipmentScan\\ShipmentScan\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ShipmentScan\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwFEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T12:31:24.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "G:\\ShipmentScan\\ShipmentScan\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "ShipmentScan\\Views\\Home\\Details.cshtml",
+              "ToolTip": "G:\\ShipmentScan\\ShipmentScan\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "ShipmentScan\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T04:16:21.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DisplayController.cs",
+              "DocumentMoniker": "G:\\ShipmentScan\\ShipmentScan\\Controllers\\DisplayController.cs",
+              "RelativeDocumentMoniker": "ShipmentScan\\Controllers\\DisplayController.cs",
+              "ToolTip": "G:\\ShipmentScan\\ShipmentScan\\Controllers\\DisplayController.cs",
+              "RelativeToolTip": "ShipmentScan\\Controllers\\DisplayController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAewCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T00:36:29.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "libman.json",
+              "DocumentMoniker": "G:\\ShipmentScan\\ShipmentScan\\libman.json",
+              "RelativeDocumentMoniker": "ShipmentScan\\libman.json",
+              "ToolTip": "G:\\ShipmentScan\\ShipmentScan\\libman.json",
+              "RelativeToolTip": "ShipmentScan\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-05T01:34:13.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "G:\\ShipmentScan\\ShipmentScan\\Views\\Home\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "ShipmentScan\\Views\\Home\\AccessDenied.cshtml",
+              "ToolTip": "G:\\ShipmentScan\\ShipmentScan\\Views\\Home\\AccessDenied.cshtml",
+              "RelativeToolTip": "ShipmentScan\\Views\\Home\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T08:10:15.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "G:\\ShipmentScan\\ShipmentScan\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ShipmentScan\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "G:\\ShipmentScan\\ShipmentScan\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ShipmentScan\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T00:28:04.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "G:\\ShipmentScan\\ShipmentScan\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ShipmentScan\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "G:\\ShipmentScan\\ShipmentScan\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ShipmentScan\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T00:27:49.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "G:\\ShipmentScan\\ShipmentScan\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ShipmentScan\\Views\\_ViewStart.cshtml",
+              "ToolTip": "G:\\ShipmentScan\\ShipmentScan\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ShipmentScan\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T00:27:46.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "G:\\ShipmentScan\\ShipmentScan\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ShipmentScan\\Views\\_ViewImports.cshtml",
+              "ToolTip": "G:\\ShipmentScan\\ShipmentScan\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ShipmentScan\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T00:27:40.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DetailsPdf.cshtml",
+              "DocumentMoniker": "G:\\ShipmentScan\\ShipmentScan\\Views\\Home\\DetailsPdf.cshtml",
+              "RelativeDocumentMoniker": "ShipmentScan\\Views\\Home\\DetailsPdf.cshtml",
+              "ToolTip": "G:\\ShipmentScan\\ShipmentScan\\Views\\Home\\DetailsPdf.cshtml",
+              "RelativeToolTip": "ShipmentScan\\Views\\Home\\DetailsPdf.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T00:26:54.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "G:\\ShipmentScan\\ShipmentScan\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ShipmentScan\\Models\\ErrorViewModel.cs",
+              "ToolTip": "G:\\ShipmentScan\\ShipmentScan\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ShipmentScan\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T00:26:16.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "G:\\ShipmentScan\\ShipmentScan\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "ShipmentScan\\Models\\LoginModel.cs",
+              "ToolTip": "G:\\ShipmentScan\\ShipmentScan\\Models\\LoginModel.cs",
+              "RelativeToolTip": "ShipmentScan\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T14:07:26.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RoleModel.cs",
+              "DocumentMoniker": "G:\\ShipmentScan\\ShipmentScan\\Models\\RoleModel.cs",
+              "RelativeDocumentMoniker": "ShipmentScan\\Models\\RoleModel.cs",
+              "ToolTip": "G:\\ShipmentScan\\ShipmentScan\\Models\\RoleModel.cs",
+              "RelativeToolTip": "ShipmentScan\\Models\\RoleModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T14:07:19.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "G:\\ShipmentScan\\ShipmentScan\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "ShipmentScan\\Models\\UserModel.cs",
+              "ToolTip": "G:\\ShipmentScan\\ShipmentScan\\Models\\UserModel.cs",
+              "RelativeToolTip": "ShipmentScan\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T14:07:04.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserRoleModel.cs",
+              "DocumentMoniker": "G:\\ShipmentScan\\ShipmentScan\\Models\\UserRoleModel.cs",
+              "RelativeDocumentMoniker": "ShipmentScan\\Models\\UserRoleModel.cs",
+              "ToolTip": "G:\\ShipmentScan\\ShipmentScan\\Models\\UserRoleModel.cs",
+              "RelativeToolTip": "ShipmentScan\\Models\\UserRoleModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T14:06:52.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ShipmentModel.cs",
+              "DocumentMoniker": "G:\\ShipmentScan\\ShipmentScan\\Models\\ShipmentModel.cs",
+              "RelativeDocumentMoniker": "ShipmentScan\\Models\\ShipmentModel.cs",
+              "ToolTip": "G:\\ShipmentScan\\ShipmentScan\\Models\\ShipmentModel.cs",
+              "RelativeToolTip": "ShipmentScan\\Models\\ShipmentModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T12:34:33.719Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 899,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1224 @@
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\appsettings.Development.json
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\appsettings.json
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\ShipmentScan.staticwebassets.runtime.json
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\ShipmentScan.staticwebassets.endpoints.json
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\ShipmentScan.exe
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\ShipmentScan.deps.json
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\ShipmentScan.runtimeconfig.json
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\ShipmentScan.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\ShipmentScan.pdb
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.csproj.AssemblyReference.cache
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.AssemblyInfoInputs.cache
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.AssemblyInfo.cs
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.csproj.CoreCompileInputs.cache
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.MvcApplicationPartsAssemblyInfo.cache
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.RazorAssemblyInfo.cache
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.RazorAssemblyInfo.cs
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\obj\Debug\net8.0\scopedcss\bundle\ShipmentScan.styles.css
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\obj\Debug\net8.0\scopedcss\projectbundle\ShipmentScan.bundle.scp.css
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets.build.json
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets.development.json
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets\msbuild.ShipmentScan.Microsoft.AspNetCore.StaticWebAssets.props
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets\msbuild.ShipmentScan.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets\msbuild.build.ShipmentScan.props
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShipmentScan.props
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShipmentScan.props
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets.pack.json
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\obj\Debug\net8.0\Shipment.C01ECCCE.Up2Date
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\obj\Debug\net8.0\refint\ShipmentScan.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.pdb
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.genruntimeconfig.cache
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ref\ShipmentScan.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\BCrypt.Net-Core.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Azure.Core.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Azure.Identity.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.ClientModel.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Memory.Data.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Text.Json.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Rotativa.AspNetCore.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.MvcApplicationPartsAssemblyInfo.cs
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Rotativa\wkhtmltopdf.exe
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\BitMiracle.LibTiff.NET.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Google.Protobuf.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Grpc.Core.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Grpc.Core.Api.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Grpc.Net.Client.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Grpc.Net.Common.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\HtmlAgilityPack.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\IronPdf.Extensions.Mvc.Core.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\IronPdf.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\IronSoftware.Abstractions.Models.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\IronSoftware.Abstractions.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\IronSoftware.Logger.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\IronSoftware.Shared.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\IronSoftware.Drawing.Abstractions.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\IronSoftware.Drawing.Common.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\SixLabors.Fonts.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\SixLabors.ImageSharp.Drawing.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\Chrome.Native.deployment.json
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\IronCefSubprocess.exe
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\IronInterop.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\api-ms-win-crt-convert-l1-1-0.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\api-ms-win-crt-environment-l1-1-0.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\api-ms-win-crt-filesystem-l1-1-0.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\api-ms-win-crt-heap-l1-1-0.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\api-ms-win-crt-locale-l1-1-0.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\api-ms-win-crt-math-l1-1-0.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\api-ms-win-crt-runtime-l1-1-0.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\api-ms-win-crt-stdio-l1-1-0.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\api-ms-win-crt-string-l1-1-0.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\api-ms-win-crt-time-l1-1-0.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\api-ms-win-crt-utility-l1-1-0.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\chrome_100_percent.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\chrome_200_percent.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\chrome_elf.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\concrt140.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\d3dcompiler_47.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\dxva2.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\icudtl.dat
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\libEGL.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\libGLESv2.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\libcef.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\libyara.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\af.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\am.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\ar.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\bg.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\bn.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\ca.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\cs.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\da.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\de.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\el.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\en-GB.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\en-US.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\es-419.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\es.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\et.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\fa.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\fi.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\fil.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\fr.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\gu.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\he.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\hi.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\hr.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\hu.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\id.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\it.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\ja.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\kn.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\ko.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\lt.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\lv.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\ml.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\mr.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\ms.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\nb.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\nl.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\pl.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\pt-BR.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\pt-PT.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\ro.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\ru.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\sk.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\sl.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\sr.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\sv.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\sw.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\ta.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\te.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\th.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\tr.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\uk.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\ur.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\vi.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\zh-CN.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\zh-TW.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140_1.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140_2.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\resources.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\snapshot_blob.bin
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\ucrtbase.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\v8_context_snapshot.bin
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140_1.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\vk_swiftshader.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\vulkan-1.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\Chrome.Native.deployment.json
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\IronCefSubprocess.exe
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\IronInterop.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\api-ms-win-crt-convert-l1-1-0.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\api-ms-win-crt-environment-l1-1-0.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\api-ms-win-crt-filesystem-l1-1-0.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\api-ms-win-crt-heap-l1-1-0.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\api-ms-win-crt-locale-l1-1-0.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\api-ms-win-crt-math-l1-1-0.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\api-ms-win-crt-runtime-l1-1-0.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\api-ms-win-crt-stdio-l1-1-0.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\api-ms-win-crt-string-l1-1-0.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\api-ms-win-crt-time-l1-1-0.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\api-ms-win-crt-utility-l1-1-0.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\chrome_100_percent.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\chrome_200_percent.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\chrome_elf.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\concrt140.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\d3dcompiler_47.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\dxva2.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\icudtl.dat
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\libEGL.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\libGLESv2.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\libcef.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\libyara.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\af.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\am.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\ar.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\bg.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\bn.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\ca.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\cs.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\da.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\de.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\el.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\en-GB.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\en-US.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\es-419.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\es.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\et.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\fa.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\fi.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\fil.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\fr.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\gu.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\he.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\hi.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\hr.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\hu.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\id.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\it.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\ja.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\kn.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\ko.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\lt.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\lv.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\ml.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\mr.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\ms.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\nb.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\nl.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\pl.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\pt-BR.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\pt-PT.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\ro.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\ru.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\sk.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\sl.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\sr.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\sv.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\sw.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\ta.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\te.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\th.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\tr.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\uk.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\ur.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\vi.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\zh-CN.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\zh-TW.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140_1.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140_2.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\resources.pak
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\snapshot_blob.bin
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\ucrtbase.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\v8_context_snapshot.bin
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\vcruntime140.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\vk_swiftshader.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\vulkan-1.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\linux-x64\native\IronPdfInterop.so
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\linux-x64\native\Pdfium.Native.deployment.json
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\osx-arm64\native\IronPdfInterop.dylib
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\osx-arm64\native\Pdfium.Native.deployment.json
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\osx-x64\native\IronPdfInterop.dylib
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\osx-x64\native\Pdfium.Native.deployment.json
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\IronPdfInterop.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\Pdfium.Native.deployment.json
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\IronPdfInterop.dll
+D:\visual_basic_belajar\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\Pdfium.Native.deployment.json
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\appsettings.Development.json
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\appsettings.json
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\libman.json
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\ShipmentScan.staticwebassets.runtime.json
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Rotativa\wkhtmltopdf.exe
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\ShipmentScan.exe
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\ShipmentScan.deps.json
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\ShipmentScan.runtimeconfig.json
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\ShipmentScan.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\ShipmentScan.pdb
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Azure.Core.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Azure.Identity.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\BCrypt.Net-Core.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Newtonsoft.Json.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Rotativa.AspNetCore.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.ClientModel.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Drawing.Common.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Formats.Asn1.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.IO.Pipelines.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Memory.Data.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Runtime.Caching.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Security.Permissions.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Text.Json.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Windows.Extensions.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+G:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.csproj.AssemblyReference.cache
+G:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.GeneratedMSBuildEditorConfig.editorconfig
+G:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.AssemblyInfoInputs.cache
+G:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.AssemblyInfo.cs
+G:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.csproj.CoreCompileInputs.cache
+G:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.MvcApplicationPartsAssemblyInfo.cs
+G:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.MvcApplicationPartsAssemblyInfo.cache
+G:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.RazorAssemblyInfo.cache
+G:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.RazorAssemblyInfo.cs
+G:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets.build.json
+G:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets.development.json
+G:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets\msbuild.ShipmentScan.Microsoft.AspNetCore.StaticWebAssets.props
+G:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets\msbuild.build.ShipmentScan.props
+G:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShipmentScan.props
+G:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShipmentScan.props
+G:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets.pack.json
+G:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\scopedcss\bundle\ShipmentScan.styles.css
+G:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\scopedcss\projectbundle\ShipmentScan.bundle.scp.css
+G:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\Shipment.C01ECCCE.Up2Date
+G:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.dll
+G:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\refint\ShipmentScan.dll
+G:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.pdb
+G:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.genruntimeconfig.cache
+G:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ref\ShipmentScan.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\appsettings.json
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\libman.json
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Rotativa\wkhtmltopdf.exe
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\ShipmentScan.staticwebassets.runtime.json
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\ShipmentScan.staticwebassets.endpoints.json
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\ShipmentScan.exe
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\ShipmentScan.deps.json
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\ShipmentScan.runtimeconfig.json
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\ShipmentScan.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\ShipmentScan.pdb
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\BCrypt.Net-Core.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\BitMiracle.LibTiff.NET.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Grpc.Core.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\IronPdf.Extensions.Mvc.Core.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\IronPdf.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\IronSoftware.Abstractions.Models.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\IronSoftware.Abstractions.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\IronSoftware.Logger.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\IronSoftware.Shared.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\IronSoftware.Drawing.Abstractions.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\IronSoftware.Drawing.Common.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Rotativa.AspNetCore.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\SixLabors.ImageSharp.Drawing.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\Chrome.Native.deployment.json
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\IronCefSubprocess.exe
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\IronInterop.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\api-ms-win-crt-convert-l1-1-0.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\api-ms-win-crt-environment-l1-1-0.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\api-ms-win-crt-filesystem-l1-1-0.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\api-ms-win-crt-heap-l1-1-0.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\api-ms-win-crt-locale-l1-1-0.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\api-ms-win-crt-math-l1-1-0.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\api-ms-win-crt-runtime-l1-1-0.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\api-ms-win-crt-stdio-l1-1-0.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\api-ms-win-crt-string-l1-1-0.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\api-ms-win-crt-time-l1-1-0.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\api-ms-win-crt-utility-l1-1-0.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\chrome_100_percent.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\chrome_200_percent.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\chrome_elf.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\concrt140.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\d3dcompiler_47.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\dxva2.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\icudtl.dat
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\libEGL.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\libGLESv2.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\libcef.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\libyara.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\af.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\am.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\ar.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\bg.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\bn.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\ca.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\cs.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\da.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\de.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\el.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\en-GB.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\en-US.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\es-419.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\es.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\et.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\fa.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\fi.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\fil.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\fr.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\gu.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\he.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\hi.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\hr.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\hu.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\id.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\it.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\ja.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\kn.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\ko.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\lt.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\lv.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\ml.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\mr.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\ms.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\nb.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\nl.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\pl.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\pt-BR.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\pt-PT.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\ro.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\ru.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\sk.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\sl.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\sr.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\sv.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\sw.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\ta.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\te.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\th.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\tr.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\uk.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\ur.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\vi.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\zh-CN.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\zh-TW.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\resources.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\snapshot_blob.bin
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\ucrtbase.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\v8_context_snapshot.bin
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\vk_swiftshader.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\vulkan-1.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\Chrome.Native.deployment.json
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\IronCefSubprocess.exe
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\IronInterop.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\api-ms-win-crt-convert-l1-1-0.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\api-ms-win-crt-environment-l1-1-0.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\api-ms-win-crt-filesystem-l1-1-0.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\api-ms-win-crt-heap-l1-1-0.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\api-ms-win-crt-locale-l1-1-0.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\api-ms-win-crt-math-l1-1-0.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\api-ms-win-crt-runtime-l1-1-0.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\api-ms-win-crt-stdio-l1-1-0.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\api-ms-win-crt-string-l1-1-0.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\api-ms-win-crt-time-l1-1-0.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\api-ms-win-crt-utility-l1-1-0.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\chrome_100_percent.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\chrome_200_percent.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\chrome_elf.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\concrt140.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\d3dcompiler_47.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\dxva2.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\icudtl.dat
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\libEGL.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\libGLESv2.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\libcef.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\libyara.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\af.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\am.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\ar.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\bg.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\bn.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\ca.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\cs.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\da.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\de.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\el.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\en-GB.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\en-US.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\es-419.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\es.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\et.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\fa.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\fi.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\fil.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\fr.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\gu.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\he.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\hi.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\hr.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\hu.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\id.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\it.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\ja.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\kn.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\ko.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\lt.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\lv.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\ml.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\mr.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\ms.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\nb.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\nl.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\pl.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\pt-BR.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\pt-PT.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\ro.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\ru.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\sk.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\sl.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\sr.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\sv.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\sw.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\ta.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\te.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\th.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\tr.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\uk.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\ur.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\vi.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\zh-CN.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\zh-TW.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\resources.pak
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\snapshot_blob.bin
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\ucrtbase.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\v8_context_snapshot.bin
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\vk_swiftshader.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\vulkan-1.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\linux-x64\native\IronPdfInterop.so
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\linux-x64\native\Pdfium.Native.deployment.json
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\osx-arm64\native\IronPdfInterop.dylib
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\osx-arm64\native\Pdfium.Native.deployment.json
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\osx-x64\native\IronPdfInterop.dylib
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\osx-x64\native\Pdfium.Native.deployment.json
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\IronPdfInterop.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\Pdfium.Native.deployment.json
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\IronPdfInterop.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\Pdfium.Native.deployment.json
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.csproj.AssemblyReference.cache
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.AssemblyInfoInputs.cache
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.AssemblyInfo.cs
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.csproj.CoreCompileInputs.cache
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.RazorAssemblyInfo.cache
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.RazorAssemblyInfo.cs
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\obj\Debug\net8.0\scopedcss\bundle\ShipmentScan.styles.css
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\obj\Debug\net8.0\scopedcss\projectbundle\ShipmentScan.bundle.scp.css
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets\msbuild.ShipmentScan.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets\msbuild.ShipmentScan.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets\msbuild.build.ShipmentScan.props
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShipmentScan.props
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShipmentScan.props
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\obj\Debug\net8.0\Shipment.C01ECCCE.Up2Date
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\obj\Debug\net8.0\refint\ShipmentScan.dll
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.pdb
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.genruntimeconfig.cache
+C:\Users\sistra\Documents\Visual Studio 2022\source\repos\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ref\ShipmentScan.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\appsettings.Development.json
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\appsettings.json
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\libman.json
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Rotativa\wkhtmltopdf.exe
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\ShipmentScan.staticwebassets.runtime.json
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\ShipmentScan.exe
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\ShipmentScan.deps.json
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\ShipmentScan.runtimeconfig.json
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\ShipmentScan.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\ShipmentScan.pdb
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Azure.Core.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Azure.Identity.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\BCrypt.Net-Core.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\BitMiracle.LibTiff.NET.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Google.Protobuf.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Grpc.Core.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Grpc.Core.Api.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Grpc.Net.Client.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Grpc.Net.Common.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\HtmlAgilityPack.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\IronPdf.Extensions.Mvc.Core.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\IronPdf.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\IronSoftware.Abstractions.Models.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\IronSoftware.Abstractions.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\IronSoftware.Logger.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\IronSoftware.Shared.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\IronSoftware.Drawing.Abstractions.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\IronSoftware.Drawing.Common.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Newtonsoft.Json.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Rotativa.AspNetCore.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\SixLabors.Fonts.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\SixLabors.ImageSharp.Drawing.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\System.ClientModel.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\System.Drawing.Common.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\System.Formats.Asn1.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\System.IO.Pipelines.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\System.Memory.Data.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\System.Runtime.Caching.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\System.Security.Permissions.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\System.Text.Json.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\System.Windows.Extensions.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\Chrome.Native.deployment.json
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\IronCefSubprocess.exe
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\IronInterop.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\api-ms-win-crt-convert-l1-1-0.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\api-ms-win-crt-environment-l1-1-0.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\api-ms-win-crt-filesystem-l1-1-0.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\api-ms-win-crt-heap-l1-1-0.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\api-ms-win-crt-locale-l1-1-0.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\api-ms-win-crt-math-l1-1-0.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\api-ms-win-crt-runtime-l1-1-0.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\api-ms-win-crt-stdio-l1-1-0.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\api-ms-win-crt-string-l1-1-0.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\api-ms-win-crt-time-l1-1-0.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\api-ms-win-crt-utility-l1-1-0.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\chrome_100_percent.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\chrome_200_percent.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\chrome_elf.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\concrt140.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\d3dcompiler_47.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\dxva2.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\icudtl.dat
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\libEGL.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\libGLESv2.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\libcef.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\libyara.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\af.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\am.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\ar.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\bg.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\bn.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\ca.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\cs.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\da.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\de.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\el.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\en-GB.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\en-US.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\es-419.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\es.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\et.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\fa.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\fi.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\fil.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\fr.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\gu.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\he.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\hi.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\hr.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\hu.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\id.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\it.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\ja.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\kn.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\ko.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\lt.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\lv.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\ml.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\mr.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\ms.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\nb.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\nl.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\pl.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\pt-BR.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\pt-PT.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\ro.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\ru.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\sk.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\sl.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\sr.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\sv.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\sw.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\ta.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\te.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\th.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\tr.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\uk.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\ur.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\vi.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\zh-CN.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\locales\zh-TW.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140_1.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140_2.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\resources.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\snapshot_blob.bin
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\ucrtbase.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\v8_context_snapshot.bin
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140_1.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\vk_swiftshader.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\vulkan-1.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\Chrome.Native.deployment.json
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\IronCefSubprocess.exe
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\IronInterop.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\api-ms-win-crt-convert-l1-1-0.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\api-ms-win-crt-environment-l1-1-0.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\api-ms-win-crt-filesystem-l1-1-0.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\api-ms-win-crt-heap-l1-1-0.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\api-ms-win-crt-locale-l1-1-0.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\api-ms-win-crt-math-l1-1-0.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\api-ms-win-crt-runtime-l1-1-0.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\api-ms-win-crt-stdio-l1-1-0.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\api-ms-win-crt-string-l1-1-0.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\api-ms-win-crt-time-l1-1-0.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\api-ms-win-crt-utility-l1-1-0.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\chrome_100_percent.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\chrome_200_percent.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\chrome_elf.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\concrt140.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\d3dcompiler_47.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\dxva2.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\icudtl.dat
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\libEGL.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\libGLESv2.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\libcef.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\libyara.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\af.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\am.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\ar.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\bg.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\bn.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\ca.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\cs.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\da.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\de.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\el.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\en-GB.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\en-US.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\es-419.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\es.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\et.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\fa.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\fi.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\fil.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\fr.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\gu.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\he.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\hi.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\hr.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\hu.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\id.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\it.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\ja.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\kn.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\ko.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\lt.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\lv.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\ml.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\mr.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\ms.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\nb.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\nl.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\pl.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\pt-BR.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\pt-PT.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\ro.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\ru.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\sk.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\sl.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\sr.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\sv.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\sw.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\ta.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\te.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\th.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\tr.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\uk.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\ur.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\vi.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\zh-CN.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\locales\zh-TW.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140_1.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140_2.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\resources.pak
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\snapshot_blob.bin
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\ucrtbase.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\v8_context_snapshot.bin
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\vcruntime140.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\vk_swiftshader.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\vulkan-1.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\linux-x64\native\IronPdfInterop.so
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\linux-x64\native\Pdfium.Native.deployment.json
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\osx-arm64\native\IronPdfInterop.dylib
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\osx-arm64\native\Pdfium.Native.deployment.json
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\osx-x64\native\IronPdfInterop.dylib
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\osx-x64\native\Pdfium.Native.deployment.json
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\IronPdfInterop.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\Pdfium.Native.deployment.json
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\IronPdfInterop.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\Pdfium.Native.deployment.json
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+G:\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\ShipmentScan.csproj.AssemblyReference.cache
+G:\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\ShipmentScan.GeneratedMSBuildEditorConfig.editorconfig
+G:\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\ShipmentScan.AssemblyInfoInputs.cache
+G:\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\ShipmentScan.AssemblyInfo.cs
+G:\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\ShipmentScan.csproj.CoreCompileInputs.cache
+G:\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\ShipmentScan.MvcApplicationPartsAssemblyInfo.cs
+G:\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\ShipmentScan.MvcApplicationPartsAssemblyInfo.cache
+G:\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\ShipmentScan.RazorAssemblyInfo.cache
+G:\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\ShipmentScan.RazorAssemblyInfo.cs
+G:\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\staticwebassets.build.json
+G:\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\staticwebassets.development.json
+G:\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\staticwebassets\msbuild.ShipmentScan.Microsoft.AspNetCore.StaticWebAssets.props
+G:\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\staticwebassets\msbuild.build.ShipmentScan.props
+G:\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShipmentScan.props
+G:\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShipmentScan.props
+G:\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\staticwebassets.pack.json
+G:\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\scopedcss\bundle\ShipmentScan.styles.css
+G:\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\scopedcss\projectbundle\ShipmentScan.bundle.scp.css
+G:\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\Shipment.C01ECCCE.Up2Date
+G:\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\ShipmentScan.dll
+G:\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\refint\ShipmentScan.dll
+G:\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\ShipmentScan.pdb
+G:\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\ShipmentScan.genruntimeconfig.cache
+G:\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\ref\ShipmentScan.dll
+D:\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\ShipmentScan.dll
+D:\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\refint\ShipmentScan.dll
+D:\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\ShipmentScan.pdb
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\appsettings.Development.json
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\appsettings.json
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\libman.json
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Rotativa\wkhtmltopdf.exe
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\ShipmentScan.staticwebassets.runtime.json
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\ShipmentScan.staticwebassets.endpoints.json
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\ShipmentScan.exe
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\ShipmentScan.deps.json
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\ShipmentScan.runtimeconfig.json
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\ShipmentScan.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\ShipmentScan.pdb
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Azure.Core.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Azure.Identity.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\BCrypt.Net-Core.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\Rotativa.AspNetCore.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\System.ClientModel.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\System.Memory.Data.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\System.Text.Json.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\ShipmentScan.csproj.AssemblyReference.cache
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\ShipmentScan.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\ShipmentScan.AssemblyInfoInputs.cache
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\ShipmentScan.AssemblyInfo.cs
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\ShipmentScan.csproj.CoreCompileInputs.cache
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\ShipmentScan.MvcApplicationPartsAssemblyInfo.cs
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\ShipmentScan.MvcApplicationPartsAssemblyInfo.cache
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\ShipmentScan.RazorAssemblyInfo.cache
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\ShipmentScan.RazorAssemblyInfo.cs
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\scopedcss\bundle\ShipmentScan.styles.css
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\scopedcss\projectbundle\ShipmentScan.bundle.scp.css
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\staticwebassets.build.json
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\staticwebassets.development.json
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\staticwebassets\msbuild.ShipmentScan.Microsoft.AspNetCore.StaticWebAssets.props
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\staticwebassets\msbuild.ShipmentScan.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\staticwebassets\msbuild.build.ShipmentScan.props
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShipmentScan.props
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShipmentScan.props
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\staticwebassets.pack.json
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\Shipment.C01ECCCE.Up2Date
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\ShipmentScan.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\refint\ShipmentScan.dll
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\ShipmentScan.pdb
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\ShipmentScan.genruntimeconfig.cache
+D:\visual_basic_belajar\ShipmentScan_LS\ShipmentScan\obj\Debug\net8.0\ref\ShipmentScan.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\appsettings.Development.json
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\appsettings.json
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\libman.json
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Rotativa\wkhtmltopdf.exe
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\ShipmentScan.staticwebassets.runtime.json
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\ShipmentScan.staticwebassets.endpoints.json
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\ShipmentScan.exe
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\ShipmentScan.deps.json
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\ShipmentScan.runtimeconfig.json
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\ShipmentScan.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\ShipmentScan.pdb
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Azure.Core.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Azure.Identity.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\BCrypt.Net-Core.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\Rotativa.AspNetCore.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.ClientModel.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Memory.Data.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Text.Json.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\ShipmentScan\ShipmentScan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.csproj.AssemblyReference.cache
+E:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.GeneratedMSBuildEditorConfig.editorconfig
+E:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.AssemblyInfoInputs.cache
+E:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.AssemblyInfo.cs
+E:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.csproj.CoreCompileInputs.cache
+E:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.MvcApplicationPartsAssemblyInfo.cs
+E:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.MvcApplicationPartsAssemblyInfo.cache
+E:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.RazorAssemblyInfo.cache
+E:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.RazorAssemblyInfo.cs
+E:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\scopedcss\bundle\ShipmentScan.styles.css
+E:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\scopedcss\projectbundle\ShipmentScan.bundle.scp.css
+E:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets.build.json
+E:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets.development.json
+E:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets\msbuild.ShipmentScan.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets\msbuild.ShipmentScan.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets\msbuild.build.ShipmentScan.props
+E:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShipmentScan.props
+E:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShipmentScan.props
+E:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets.pack.json
+E:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\Shipment.C01ECCCE.Up2Date
+E:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.dll
+E:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\refint\ShipmentScan.dll
+E:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.pdb
+E:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ShipmentScan.genruntimeconfig.cache
+E:\ShipmentScan\ShipmentScan\obj\Debug\net8.0\ref\ShipmentScan.dll

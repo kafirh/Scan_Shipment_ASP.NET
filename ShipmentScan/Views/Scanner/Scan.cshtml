@@ -1,0 +1,287 @@
+﻿@model DetailsViewModel
+@{
+    int planQty = Model?.Shipmentmodel?.Qty ?? 0;
+    int actualQty = Model?.Shipmentmodel?.TotalSerialNumber ?? 0;
+    int remains = planQty - actualQty;
+    string remainsColor = remains != 0 ? "red" : "black";
+}
+
+
+<style>
+    .serial-table {
+        border-collapse: collapse;
+        /* margin-top: 20px; */
+        font-size: 14px;
+    }
+
+        .serial-table th,
+        .serial-table td {
+            border: 1px solid black;
+            /* padding: 8px; */
+            text-align: center;
+        }
+
+        .serial-table th {
+            background-color: #f2f2f2;
+        }
+</style>
+<div class="container mt-5">
+    <div class="card">
+        <div class="card-header bg-success bg-opacity-50 text-white d-flex justify-content-between">
+            <h4 class="card-title">Scan Serial Number Product</h4>
+            <form method="get" asp-action="Index" class="d-flex">
+                <input type="text" id="searchCode" name="searchCode"
+                       value="@ViewData["SearchCode"]"
+                       class="form-control me-2"
+                       placeholder="Enter Code"
+                       style="border: 1px solid #0056b3;" />
+                <button type="submit" class="btn btn-primary me-2">Submit</button>
+            </form>
+        </div>
+        <div class="card-body">
+            @if (Model?.Shipmentmodel != null)
+            {
+                <div class="row mb-3">
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                        <label class="form-label">Destination</label>
+                        <input type="text" class="form-control" value="@Model.Shipmentmodel.Destination?.Name" readonly>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                        <label class="form-label">Code</label>
+                        <input type="text" class="form-control" value="@Model.Shipmentmodel.Code" readonly>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                        <label class="form-label">Model</label>
+                        <input type="text" class="form-control" value="@Model.Shipmentmodel.Model?.ModelNumber" readonly>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                        <label class="form-label">Date</label>
+                        <input type="text" class="form-control" value="@(DateTime.Now.ToString("dd-MMM-yyyy", new System.Globalization.CultureInfo("id-ID")))" readonly>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                        <label class="form-label">Container No</label>
+                        <input type="text" class="form-control" value="@Model.Shipmentmodel.ContainerNo" readonly>
+                    </div>
+                    <div class="col-lg-6 col-md-8 col-sm-12 col-12">
+                        <form method="post" asp-action="PostSerialNumber" asp-controller="Scan" id="serialNumForm">
+                            <input type="hidden" name="shipmentCode" value="@Model?.Shipmentmodel?.Code">
+                            <input type="hidden" name="modelCode" value="@Model?.Shipmentmodel?.Model?.ModelNumber">
+
+                            <label class="form-label">Serial Number</label>
+                            <div class="d-flex align-items-center">
+                                <input type="text" class="form-control me-2" id="SerialNumber" name="serialNum" required>
+                                <button type="submit" class="btn btn-primary">Submit</button>
+                            </div>
+                            <span id="errorMessage" class="text-danger">@TempData["ErrorMessage"]</span>
+                        </form>
+                    </div>
+                </div>
+                <div class="d-flex flex-wrap justify-content-center text-center gap-3">
+                    <div class="flex-grow-1" style="min-width: 100px;">
+                        <h3>Plan</h3>
+                        <h1 id="planCount">@planQty</h1>
+                    </div>
+                    <div class="flex-grow-1" style="min-width: 100px;">
+                        <h3>Actual</h3>
+                        <h1 id="actualCount">@actualQty</h1>
+                    </div>
+                    <div class="flex-grow-1" style="min-width: 100px;">
+                        <h3>Remains</h3>
+                        <h1 id="remainsCount" style="color:@remainsColor">@remains</h1>
+                    </div>
+                </div>
+            }
+            else
+            {
+                <div class="alert alert-warning text-center">
+                    <strong>No shipment data available. Please try a different code.</strong>
+                </div>
+            }
+
+            <div class="row mb-3">
+                <div class="col-md-12">
+                    <div class="table-responsive">
+                        <table class="serial-table table table-bordered">
+                            <thead>
+                                <tr>
+                                    <th rowspan="2" style="width: 5%;">No.</th>
+                                    <th rowspan="2" style="width: 12%;">Serial Number</th>
+                                    <th rowspan="2" style="width: 10%;">Date Time</th>
+                                    <th colspan="4" class="item-header" style="width: 46%;">Item Check</th>
+                                    <th rowspan="2" style="width: 17%;">Comment</th>
+                                    <th rowspan="2" style="width: 5%;">Action</th>
+                                </tr>
+                                <tr>
+                                    <th>Warranty card no foiled/broken</th>
+                                    <th>Cave A no dent, no broken, no dirty</th>
+                                    <th>PG2 Label available, no broken, not move out</th>
+                                    <th>Strapping band not loosen</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @if (Model?.Serialnummodel != null && Model.Serialnummodel.Any())
+                                {
+                                    @for (int i = 0; i < Model.Serialnummodel.Count; i++)
+                                    {
+                                        var serial = Model.Serialnummodel[i];
+
+                                        <tr>
+                                            <td>@(i + 1)</td>
+                                            <td>
+                                                <input type="hidden" name="id" value="@serial?.Id" />
+                                                @(serial?.SerialNumber ?? "N/A")
+                                            </td>
+                                            <td>@(serial?.Date != null ? serial.Date.ToString("dd-MMM-yy HH:mm:ss", new System.Globalization.CultureInfo("id-ID")).Replace(".", ":") : "N/A")</td>
+
+                                            <form method="post" asp-action="UpdateSerialNumber" asp-controller="Scan">
+                                                <input type="hidden" name="id" value="@serial?.Id" />
+                                            <td><input type="checkbox" name="ItemCheck_1" value="true" @(serial?.ItemCheck_1 == true ? "checked" : "")></td>
+                                            <td><input type="checkbox" name="ItemCheck_2" value="true" @(serial?.ItemCheck_2 == true ? "checked" : "")></td>
+                                            <td><input type="checkbox" name="ItemCheck_3" value="true" @(serial?.ItemCheck_3 == true ? "checked" : "")></td>
+                                            <td><input type="checkbox" name="ItemCheck_4" value="true" @(serial?.ItemCheck_4 == true ? "checked" : "")></td>
+                                            <td><input type="text" class="form-control" name="Comment" value="@serial?.Comment"></td>
+                                            <td><button type="submit" class="btn btn-success btn-sm">Save</button></td>
+                                            </form>
+                                        </tr>
+                                    }
+                                }
+                                else
+                                {
+                                    <tr>
+                                        <td colspan="9" class="text-center">
+                                            <div class="alert alert-warning">
+                                                <strong>No serial number data available.</strong>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script src="~/js/signalr/dist/browser/signalr.js"></script>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script>
+    $(document).ready(function () {
+        var modelNumbers = @Html.Raw(Json.Serialize(Model.ModelNumbers));
+        console.log(modelNumbers);
+
+        // Event listener for form submission
+        $('#serialNumForm').submit(function (event) {
+            let serialNumber = $("#SerialNumber").val().trim(); // Get the serial number from input field
+
+            // Check if serial number is in modelNumbers list
+            if (serialNumber.length === 0 || serialNumber.length < 10) {
+                event.preventDefault(); // Prevent form submission
+                $("#SerialNumber").val(""); // Clear the input field
+                // Display error message
+                $("#errorMessage").text("Error: Serial number must be at least 10 characters long").css("color", "red");
+                return false; // Don't submit the form
+            }
+
+            if (modelNumbers.includes(serialNumber)) {
+                event.preventDefault(); // Prevent form submission
+                $("#SerialNumber").val(""); // Clear the input field
+                // Display error message
+                $("#errorMessage").text("Error: Inputkan Serial Number, Bukan Model Number").css("color", "red");
+                return false; // Don't submit the form
+            }
+
+            // If the serial number is valid, allow form submission and proceed with AJAX
+            $.ajax({
+                url: $("#serialNumForm").attr("action"),
+                type: "POST",
+                data: $(this).serialize(), // Serialize form data
+                success: function () {
+                    // Clear the input field and error message after successful submission
+                    $("#SerialNumber").val("");
+                    $("#errorMessage").text("");
+                },
+                error: function (xhr) {
+                    $("#errorMessage").text("Error: " + xhr.responseText);
+                }
+            });
+
+            // Prevent default form submission (because we're using AJAX)
+            event.preventDefault();
+        });
+    });
+
+    // Setup koneksi SignalR
+    $(document).ready(function () {
+        var connection = new signalR.HubConnectionBuilder()
+            .withUrl('@Url.Content("~/shipmentHub")')  // URL ke SignalR hub
+            .configureLogging(signalR.LogLevel.Information) // Untuk debug log
+            .build();
+
+
+        connection.on("ReceiveNewSerial", function () {
+            console.log("Shipment baru ditambahkan! Reloading data...");
+            refreshTable();
+            refreshShipmentData()
+        });
+
+        connection.on("SerialDeleted", function (id) {
+            console.log("Serial deleted:", id);
+            refreshTable();
+            refreshShipmentData()
+        });
+
+        connection.start()
+            .then(() => console.log("Connected to ShipmentHub"))
+            .catch(err => console.error("Error connecting to ShipmentHub:", err));
+    });
+
+    // Fungsi untuk refresh tabel
+    function refreshTable() {
+        $.ajax({
+            url: '@Url.Action("Index", "Scan")',
+            type: 'GET',
+            data: {
+                searchCode: $('#searchCode').val()
+            },
+            success: function (data) {
+                let newTable = $(data).find('.serial-table'); // Ambil hanya tabelnya
+                if (newTable.length) {
+                    $('.serial-table').replaceWith(newTable); // Hanya ganti tabel, tidak seluruh card-body
+                }
+            },
+            error: function (xhr, status, error) {
+                console.error("Error refreshing table:", error);
+            }
+        });
+    }
+           function refreshShipmentData() {
+        $.ajax({
+            url: '@Url.Action("Index", "Scan")', // Tetap menggunakan endpoint Index
+            type: 'GET',
+            data: {
+                searchCode: $('#searchCode').val() // Ambil kode pencarian dari input
+            },
+            success: function (responseHtml) {
+                let tempDiv = $('<div>').html(responseHtml); // Buat elemen sementara dari HTML response
+
+                // Ambil nilai dari elemen yang ada di halaman baru
+                let planQty = parseInt(tempDiv.find("#planCount").text()) || 0;
+                let actualQty = parseInt(tempDiv.find("#actualCount").text()) || 0;
+                let remains = planQty - actualQty;
+                let remainsColor = remains !== 0 ? "red" : "black";
+
+                // Update tampilan
+                $('#planCount').text(planQty);
+                $('#actualCount').text(actualQty);
+                $('#remainsCount').text(remains).css('color', remainsColor);
+            },
+            error: function (xhr, status, error) {
+                console.error("Gagal memperbarui shipment data:", error);
+            }
+        });
+    }
+
+</script>

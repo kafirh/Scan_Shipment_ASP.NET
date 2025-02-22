@@ -1,0 +1,144 @@
+﻿@{
+    ViewData["Title"] = "Display Page";
+    ViewData["HideNavbar"] = true;
+}
+@model IEnumerable<ShipmentModel>
+
+<div class="container-fluid">
+    <!-- Title Section -->
+    <div class="d-flex justify-content-center align-items-center mt-3 mb-3">
+        <h1 class="text-center" style="color: #2a9d8f; font-weight: bold;">Shipment Finish Good Laundry System</h1>
+    </div>
+
+    <!-- Header Section -->
+    <div class="d-flex justify-content-between align-items-center mb-3 p-3 rounded"
+         style="background-color: #e6f9f4; border: 2px solid #2a9d8f;">
+        <div>
+            <h4 style="color: #2a9d8f; font-weight: bold;">
+                TODAY SHIPMENTS: <span id="totalShipments" style="font-size: 1.5rem; color: blueviolet;">@Model.Count()</span>
+            </h4>
+        </div>
+
+    </div>
+
+    <div class="table-container" style="max-width= 100%; overflow-x:auto">
+        <!-- Table Section -->
+        <table class="table table-bordered" style="border: 1px solid #2a9d8f; border-collapse: collapse;">
+            <thead style="background-color: #e6f9f4; color: #2a9d8f;" class="text-center align-middle">
+                <tr>
+                    <th>No</th>
+                    <th>Date</th>
+                    <th>Model No.</th>
+                    <th colspan="2">Destination</th>
+                    <th>Qty</th>
+                    <th>Actual</th>
+                    <th>Remain</th>
+                    <th>So No.</th>
+                    <th>No.Invoice</th>
+                    <th>Container No.</th>
+                    <th>Seal No.</th>
+                    <th>Truck Police No.</th>
+                    <th>CODE</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @if (Model != null && Model.Any())
+                {
+                    int index = 0;
+                    foreach (var shipment in Model)
+                    {
+                        <tr style="transition: background-color 0.3s;" class="@(shipment.IsExport == false ? "bg-info bg-opacity-30" : "")">
+                            <td class="text-center">@(++index)</td>
+                            <td class="text-center">@shipment.PlanDate.ToString("dd MMM yyyy", new System.Globalization.CultureInfo("id-ID"))</td>
+                            <td class="text-center">@shipment.Model?.ModelNumber</td>
+                            <td class="text-center">@shipment.Destination?.Name</td>
+                            <td class="text-center">@(shipment.IsExport ? "Ekspor" : "Domestik")</td>
+                            <td class="text-center">@shipment.Qty</td>
+                            <td class="text-center">@shipment.TotalSerialNumber</td>
+                            <td class="text-center" style="color:@((shipment.TotalSerialNumber - shipment.Qty) == 0 ? "black" : "red");">
+                                @(shipment.TotalSerialNumber - shipment.Qty)
+                            </td>
+                            <td class="text-center">@shipment.SoNum</td>
+                            <td class="text-center">@shipment.NoInvoice</td>
+                            <td class="text-center">@shipment.ContainerNo</td>
+                            <td class="text-center">@shipment.SealNo</td>
+                            <td class="text-center">@shipment.TruckPoliceNo</td>
+                            <td class="text-center">@shipment.Code</td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="17" class="text-center text-muted">
+                            No records found.
+                        </td>
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+    </div>
+</div>
+
+<script src="~/js/signalr/dist/browser/signalr.js"></script>
+<script>
+    var connection = new signalR.HubConnectionBuilder()
+        .withUrl('@Url.Content("~/shipmentHub")')  // URL ke SignalR hub
+        .configureLogging(signalR.LogLevel.Information) // Untuk debug log
+        .build();
+
+    connection.on("ReceiveNewShipment", function () {
+        console.log("Shipment baru ditambahkan! Reloading data...");
+        refreshTotalShipment()
+        refreshTable();
+    });
+    connection.on("ReceiveNewSerial", function () {
+        console.log("Shipment baru ditambahkan! Reloading data...");
+        refreshTable();
+    });
+    connection.on("ShipmentDeleted", function (code) {
+        console.log("Shipment deleted:", code);
+        refreshTotalShipment()
+        refreshTable();
+    });
+    connection.on("SerialDeleted", function (id) {
+        console.log("Serial deleted:", id);
+        refreshTable();
+    });
+
+    connection.start()
+        .then(() => console.log("Connected to ShipmentHub"))
+        .catch(err => console.error("Error connecting to ShipmentHub:", err));
+
+    function refreshTable() {
+        $.ajax({
+            url: '@Html.Raw(Url.Action("Index", "Display"))',
+            type: 'GET',
+            success: function (data) {
+                let newTable = $(data).find('table');
+                if (newTable.length) {
+                    $('table').html(newTable.html());
+                }
+            },
+            error: function (xhr, status, error) {
+                console.error("Error refreshing table:", error);
+            }
+        });
+    }
+    function refreshTotalShipment() {
+        $.ajax({
+            url: '@Html.Raw(Url.Action("Index", "Display"))', // Sesuaikan dengan endpoint controller
+            type: 'GET',
+            success: function (data) {
+                $('#totalShipments').text(data.totalShipments); // Update angka total shipments
+            },
+            error: function (xhr, status, error) {
+                console.error("Error refreshing total shipments:", error);
+            }
+        });
+    }
+
+</script>
+

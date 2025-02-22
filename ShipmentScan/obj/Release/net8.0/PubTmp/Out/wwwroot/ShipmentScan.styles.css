@@ -1,0 +1,49 @@
+/* _content/ShipmentScan/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-ntcjayp44e] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-ntcjayp44e] {
+  color: #0077cc;
+}
+
+.btn-primary[b-ntcjayp44e] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-ntcjayp44e], .nav-pills .show > .nav-link[b-ntcjayp44e] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-ntcjayp44e] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-ntcjayp44e] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-ntcjayp44e] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-ntcjayp44e] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-ntcjayp44e] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
